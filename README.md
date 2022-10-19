@@ -9,7 +9,7 @@
     </div>
 </div>
 
- <div align="left"> <img src="https://komarev.com/ghpvc/?username=MitreshPrajapati&label=Profile%20views&color=0e75b6&style=flat" alt="arun_jawlia" /> </div>
+ <div align="left"> <img src="https://komarev.com/ghpvc/?username=Arun-Jawlia&label=Profile%20views&color=0e75b6&style=flat" alt="arun_jawlia" /> </div>
 <h2>🚀 About Me</h2>
 <div >
   <div width="40%">
