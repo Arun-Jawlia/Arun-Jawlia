@@ -19,7 +19,7 @@
  <ul>
             <li>🌱 <b>I’m currently learning</b>: Full-stack Web Developmet at Masai.</li>
             <li>🎯 <b>I’m currently focusing on</b>: Learning new things everyday .</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://arun-jawlia.github.io/">LINK TO Porfolio</a>.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://arun-jawlia.github.io/">LINK TO Portfolio</a>.</li>
             <li>💬 <b>Ask me about </b>: HTML || CSS || Javascript || React || ExpressJs || MongoDb || NodeJs </li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I Love Codeing(💻), Traveling(🌍) .</li>
