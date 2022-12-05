@@ -60,16 +60,31 @@
 
 
 
-<h2> 🔝 Most used languages</h2>
 
- <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Jawlia&layout=compact" />
 
 
 <h2 align="center">📊 My Github Stats<h2>
 
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-Jawlia&theme=dark" alt="arun" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Arun-Jawlia&show_icons=true&theme=dark" height="255px" width="47%"/>
+  
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-Jawlia&theme=algolia" alt="7oSkaaa" /></p>
+
+
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arun-Jawlia&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arun-Jawlia&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ajawlia" height="192px"/>
+  <br/>
+  </p>
+
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Arun-Jawlia"><img alt="Arun-Jawlia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arun-Jawlia&custom_title=Arun-Jawlia%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 <div>
 </br>
 
