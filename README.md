@@ -74,7 +74,7 @@
   <br/>
 <p align='center'
  >
-     <a href="https://github.com/Arun-Jawlia/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yashhh08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+     <a href="https://github.com/Arun-Jawlia/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arun-Jawlia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <br/>
 <p  align="center">
