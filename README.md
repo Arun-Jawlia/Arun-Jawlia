@@ -37,19 +37,19 @@
    <h2>🧑‍💻 Languages and ⚒️ Tools...</h2>
 <P>FRONTEND</p>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,chakra-ui,javascript,ts,react,next)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next)
 
 <P>BACKEND</p>
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express)
 
 <P>DATABASE</p>
 
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
+![My Skills](https://skillicons.dev/icons?i=mongodb)
 
 <P>OTHERS</p>
 
-![My Skills](https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,idea,postman,figma)
+![My Skills](https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman)
 
 
 
@@ -72,20 +72,16 @@
 
 
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arun-Jawlia&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arun-Jawlia&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ajawlia" height="192px"/>
-  <br/>
-  </p>
+    <a href="https://github.com/Arun-Jawlia/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yashhh08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Arun-Jawlia/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Jawlia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Arun-Jawlia&theme=react-dark)
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Arun-Jawlia"><img alt="Arun-Jawlia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arun-Jawlia&custom_title=Arun-Jawlia%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+
 <div>
 </br>
 
