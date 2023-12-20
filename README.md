@@ -5,26 +5,18 @@
         <img src="https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+friends+I'm+Arun+%F0%9F%91%8B;Full+stack+Developer;Problem+Solver;Interested+In+Learning" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+friends+I'm+Arun+%F0%9F%91%8B;MERN+Developer; Full+Stack+ Web+Developer; Problem+Solver;Interested+In+Learning";  alt="Headline" />
     </div>
 </div>
 
  <div align="left"> <img src="https://komarev.com/ghpvc/?username=Arun-Jawlia&label=Profile%20views&color=0e75b6&style=flat" alt="arun_jawlia" /> </div>
-<h2>🚀 About Me</h2>
 <div >
-  <div width="40%">
-  I am a full-stack web developer specialized in MERN stack. Keen to create new and innovative websites by showcasing my skills. A highly motivated and talented developer who develops website to showcase my skills.
+  <div width="60%">
+ Passionate Full Stack Web Developer with a robust blend of technical expertise and soft skills, committed to crafting engaging and interactive web applications using MERN stack. Excited about leveraging a comprehensive skill set to contribute to innovative projects and collaborate with fellow developers in the GitHub community.
   </div>
- 
- <ul>
-            <li>🌱 <b>I’m currently learning</b>: Full-stack Web Developmet at Masai.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: Learning new things everyday.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://arun-jawlia.github.io/">Portfolio 👆 </a>.</li>
-            <li>💬 <b>Ask me about </b>: HTML || CSS || Javascript || React || ExpressJs || MongoDb || NodeJs </li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I Love Codeing(💻), Traveling(🌍) .</li>
-        </ul>
-</div>
+
+## 🚀 About Me 
+
 
 
 
