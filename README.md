@@ -5,7 +5,7 @@
         <img src="https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+friends+I'm+Arun+%F0%9F%91%8B; MERN+Developer; Full+Stack+Web+Developer; Problem+Solver; Interested+In+Learning";  alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+friends+I'm+Arun+%F0%9F%91%8B; MERN+Developer; Full+Stack+Web+Developer;  alt="Headline" />
     </div>
 </div>
 
@@ -17,16 +17,22 @@
 
 ## 🚀 About Me 
 
+- I'm currently working on my 🚀 100 Days Reboot Challenge : Revise, Rise and Renew 🚀
+- I am currently focusing on my improvement.
+- All of my work available at **[My Portfolio](https://arun-jawlia.github.io/)**
+- I am looking for wonderful opportunity and here is **[Resume](https://drive.google.com/file/d/1J5K2NUUig93fi5stQo5ZU_lOvQvb_ciZ/view?usp=sharing)**
 
 
-
-
-<h2> 🤝 Connect with me:</h2>
+ ## 🤝 Ways to Connect with me
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://arun-jawlia.github.io/)
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://arun-jawlia.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-jawlia-0a262022b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunkumar08.mk@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919718653508)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-jawlia-0a262022b/)
+ 
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunkumar08.mk@gmail.com)
+  
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919718653508)
+
+  
 
    <h2>🧑‍💻 Languages and ⚒️ Tools...</h2>
 <p align="left">
