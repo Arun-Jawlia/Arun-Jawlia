@@ -5,7 +5,7 @@
         <img src="https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+friends+I'm+Arun+%F0%9F%91%8B; MERN+Developer; Full+Stack+Web+Developer;  alt="Headline" />
+   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arun Jawlia</h1>
     </div>
 </div>
 
@@ -35,18 +35,21 @@
   
 
    <h2>🧑‍💻 Languages and ⚒️ Tools...</h2>
-<p align="left">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">   
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="vertical-align:top; margin:4px" >
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" style="vertical-align:top; margin:4px">
-  <img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" style="vertical-align:top; margin:4px">
-</p>
+<P>FRONTEND</p>
+
+![My Skills](https://skillicons.dev/icons?i=html,css,chakra-ui,javascript,ts,react,next)
+
+<P>BACKEND</p>
+
+![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express)
+
+<P>DATABASE</p>
+
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
+
+<P>OTHERS</p>
+
+![My Skills](https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,idea,postman,figma)
 
 
 
