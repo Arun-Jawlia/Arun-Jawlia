@@ -82,8 +82,7 @@
   </a>
 </p>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-[![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arun-Jawlia&bg_color=000000&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/Arun-Jawlia/github-readme-activity-graph)
+
 
 
 
@@ -97,12 +96,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 
-<div>
- <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Arun-Jawlia"><img alt="Arun's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arun-Jawlia&custom_title=Arun-Jawlia's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</div>
+
 
 <!--
 <div>
