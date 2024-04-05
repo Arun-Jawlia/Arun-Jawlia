@@ -2,7 +2,7 @@
 <!--[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 <div width="80%">
 
-    <div align=center>
+   
    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arun Jawlia</h1>
     </div>
 </div>
