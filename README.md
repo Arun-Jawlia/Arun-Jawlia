@@ -32,19 +32,24 @@
    <h2>🧑‍💻 Languages and ⚒️ Tools...</h2>
 <P>FRONTEND</p>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,bootstrap,materialui)
 
 <P>BACKEND</p>
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,,prisma)
 
 <P>DATABASE</p>
 
-![My Skills](https://skillicons.dev/icons?i=mongodb)
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)
 
-<P>OTHERS</p>
 
-![My Skills](https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman)
+<P>DEVOPS</p>
+
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)
+
+<P>TOOLS</p>
+
+![My Skills](https://skillicons.dev/icons?i=npm,git,github,bitbucket,gitlab,vercel,netlify,vscode,postman,windows)
 
 
 
