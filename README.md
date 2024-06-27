@@ -40,7 +40,7 @@
 
 <P>DATABASE</p>
 
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,redis,postgres)
 
 
 <P>DEVOPS</p>
