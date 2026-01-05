@@ -1,119 +1,91 @@
-
-<div width="80%">   
-   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arun Jawlia</h1>
-    </div>
+<div align="center" width="80%">   
+  <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arun Jawlia</h1>
+  <h3>🚀 Full Stack Developer | MERN | React | TypeScript</h3>
 </div>
 
- <div align="left"> <img src="https://komarev.com/ghpvc/?username=Arun-Jawlia&label=Profile%20views&color=0e75b6&style=flat" alt="arun_jawlia" /> </div>
-<div >
-  <div width="60%">
- Passionate Full Stack Web Developer with a robust blend of technical expertise and soft skills, committed to crafting engaging and interactive web applications using MERN stack. Excited about leveraging a comprehensive skill set to contribute to innovative projects and collaborate with fellow developers in the GitHub community.
-  </div>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Arun-Jawlia&label=Profile%20views&color=0e75b6&style=flat" alt="profile_views" />
+</div>
 
-## 🚀 About Me 
+---
 
-- I'm currently working on my 🚀 100 Days Reboot Challenge : Revise, Rise and Renew 🚀
-- I am currently focusing on my improvement.
-- All of my work available at **[My Portfolio](https://arun-jawlia.github.io/)**
-- I am looking for wonderful opportunity and here is **[Resume](https://drive.google.com/file/d/1J5K2NUUig93fi5stQo5ZU_lOvQvb_ciZ/view?usp=sharing)**
+### 🌟 Introduction
 
+Passionate **Full Stack Web Developer** with a strong blend of technical expertise and problem-solving mindset.  
+I love building **scalable, engaging, and performant web applications** using the **MERN stack**, and I enjoy collaborating with other developers to create impactful products.
 
- ## 🤝 Ways to Connect with me
-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://arun-jawlia.github.io/)
- 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-jawlia-0a262022b/)
- 
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunkumar08.mk@gmail.com)
-  
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919718653508)
+---
 
-  
+## 🚀 About Me
 
-   <h2>🧑‍💻 Languages and ⚒️ Tools...</h2>
-<P>FRONTEND</p>
+- 🔥 Currently doing **100 Days Reboot Challenge — Revise, Rise & Renew**
+- 📚 Focused on consistent learning and self-improvement
+- 🌐 Portfolio: **[https://arun-jawlia.github.io](https://arun-jawlia.github.io/)**
+- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1J5K2NUUig93fi5stQo5ZU_lOvQvb_ciZ/view?usp=sharing)**
+- 💼 Open to Frontend / Backend / Full-Stack opportunities
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,bootstrap,materialui)
+---
 
-<P>BACKEND</p>
+## 🤝 Connect With Me
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,,prisma)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://arun-jawlia.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-jawlia-0a262022b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunkumar08.mk@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919718653508)
 
-<P>DATABASE</p>
+---
 
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,redis,postgres)
+## 🧑‍💻 Languages & Tools
 
+### Frontend
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,bootstrap,materialui)
 
-<P>DEVOPS</p>
+### Backend
+![Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma)
 
-![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)
+### Databases
+![Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)
 
-<P>TOOLS</p>
+### DevOps
+![Skills](https://skillicons.dev/icons?i=docker,kubernetes)
 
-![My Skills](https://skillicons.dev/icons?i=npm,git,github,bitbucket,gitlab,vercel,netlify,vscode,postman,windows)
+### Tools
+![Skills](https://skillicons.dev/icons?i=npm,git,github,bitbucket,gitlab,vercel,netlify,vscode,postman,windows)
 
+---
 
+## 💻 Workspace
 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+---
 
-<h2>💻 Workspace</h2>
+## 📊 GitHub Stats
 
-[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://arun-jawlia.github.io/)
-
-
-
-
-
-
-<h2 align="center">📊 My Github Stats<h2>
-
-<div>
-  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-Jawlia&theme=algolia" alt="7oSkaaa" /></p>
-
-
-  <br/>
-<p align='center'
- >
-     <a href="https://github.com/Arun-Jawlia/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arun-Jawlia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-<br/>
-<p  align="center">
-   <a href="https://github.com/Arun-Jawlia/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Jawlia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-Jawlia&theme=algolia" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arun-Jawlia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Jawlia&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
 
-
-
-
-<div>
-</br>
-
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arun-jawlia-0a262022b/"> 
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake_animation"/>
+  </a>
 </div>
 
+---
 
+<h2 align="center">⚡ Stay Awesome ⚡</h2>
 
-<!--
-<div>
 <p align="center">
-<div align=center>
-  <a href="https://github.com/Arun-Jawlia/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Arun-Jawlia&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="footer" />
 </p>
-</div>
-
--->
-
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-  
