@@ -18,18 +18,17 @@ I love building **scalable, engaging, and performant web applications** using th
 
 ## 🚀 About Me
 
-- 🔥 Currently doing **100 Days Reboot Challenge — Revise, Rise & Renew**
 - 📚 Focused on consistent learning and self-improvement
 - 🌐 Portfolio: **[https://arun-jawlia.github.io](https://arun-jawlia.github.io/)**
-- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1J5K2NUUig93fi5stQo5ZU_lOvQvb_ciZ/view?usp=sharing)**
+- 📄 Resume: **[View Resume](https://drive.google.com/drive/folders/1vnkj6o086Sbby9FWSugWS0doajT62fUU)**
 - 💼 Open to Frontend / Backend / Full-Stack opportunities
 
 ---
 
 ## 🤝 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://arun-jawlia.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-jawlia-0a262022b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://arun-jawlia.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-jawlia/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunkumar08.mk@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919718653508)
 
@@ -58,26 +57,11 @@ I love building **scalable, engaging, and performant web applications** using th
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-Jawlia&theme=algolia" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arun-Jawlia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Jawlia&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/arun-jawlia-0a262022b/"> 
+  <a href="https://www.linkedin.com/in/arun-jawlia/"> 
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake_animation"/>
   </a>
 </div>
