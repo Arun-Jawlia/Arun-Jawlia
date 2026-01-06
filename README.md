@@ -19,7 +19,7 @@ I love building **scalable, engaging, and performant web applications** using th
 ## 🚀 About Me
 
 - 📚 Focused on consistent learning and self-improvement
-- 🌐 Portfolio: **[https://arun-jawlia.github.io](https://arun-jawlia.github.io/)**
+- 🌐 Portfolio: **[https://arun-jawlia.github.io](https://arun-jawlia.vercel.app/)**
 - 📄 Resume: **[View Resume](https://drive.google.com/drive/folders/1vnkj6o086Sbby9FWSugWS0doajT62fUU)**
 - 💼 Open to Frontend / Backend / Full-Stack opportunities
 
@@ -56,15 +56,6 @@ I love building **scalable, engaging, and performant web applications** using th
 ## 💻 Workspace
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/arun-jawlia/"> 
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake_animation"/>
-  </a>
-</div>
 
 ---
 
