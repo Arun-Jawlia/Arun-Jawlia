@@ -19,8 +19,8 @@ I love building **scalable, engaging, and performant web applications** using th
 ## 🚀 About Me
 
 - 📚 Focused on consistent learning and self-improvement
-- 🌐 Portfolio: **[https://arun-jawlia.github.io](https://arun-jawlia.vercel.app/)**
-- 📄 Resume: **[View Resume](https://drive.google.com/drive/folders/1vnkj6o086Sbby9FWSugWS0doajT62fUU)**
+- 🌐 Portfolio: **[https://arun-jawlia.vercel.app/](https://arun-jawlia.vercel.app/)**
+- 📄 Resume & Certificates: **[View Resume](https://drive.google.com/drive/folders/1vnkj6o086Sbby9FWSugWS0doajT62fUU)**
 - 💼 Open to Frontend / Backend / Full-Stack opportunities
 
 ---
