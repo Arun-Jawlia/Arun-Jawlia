@@ -1,10 +1,34 @@
 <div align="center" width="80%">   
   <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arun Jawlia</h1>
   <h3>🚀 Full Stack Developer | MERN | React | TypeScript</h3>
+  
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=600&lines=2%2B+Years+of+Development+Experience;Building+Scalable+Web+Applications;MERN+Stack+%7C+React+%7C+TypeScript;Micro-Frontend+Architecture+Expert;Performance+Optimization+Specialist" alt="Typing SVG" />
+  </p>
 </div>
 
-<div align="left">
+<p align="center">
+  <a href="https://arun-jawlia.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/arun-jawlia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arunkumar08.mk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Arun-Jawlia" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://wa.me/+919718653508" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Arun-Jawlia&label=Profile%20views&color=0e75b6&style=flat" alt="profile_views" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=flat-square" alt="focus" />
+  <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-red?style=flat-square" alt="location" />
 </div>
 
 ---
@@ -14,217 +38,345 @@
 Passionate **Full Stack Web Developer** with **2+ years of experience** building scalable, high-performance web applications.  
 I specialize in the **MERN stack**, **Micro-Frontend architecture**, and delivering production-ready features that make an impact.
 
-Currently working as a **Frontend Engineer at Publicis Sapient** (Client: Fidelity International), focused on enterprise-grade React applications.
+<p align="left">
+  <a href="https://drive.google.com/drive/folders/1vnkj6o086Sbby9FWSugWS0doajT62fUU" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
 ```javascript
-const arunJawlia = {
-    location: "Delhi, India 📍",
-    experience: "2+ Years",
-    currentRole: "Frontend Engineer @ Publicis Sapient",
-    previousRole: "Software Engineer @ Ijona Service LLP",
-    
-    expertise: [
-        "⚛️ React & TypeScript Expert",
-        "🏗️ Micro-Frontend Architecture",
-        "⚡ Performance Optimization (40% improvement)",
-        "🔐 Secure Authentication (JWT/OAuth2)",
-        "🧪 Testing Champion (90% coverage)",
-        "📱 Cross-platform Development"
-    ],
-    
-    achievements: {
-        performanceBoost: "40% faster APIs with Redis",
-        testCoverage: "90% with Jest",
-        migration: "Legacy Backbone.js → Modern React",
-        realTime: "WebSocket implementations",
-        deployment: "30% optimization improvement"
-    },
-    
-    education: {
-        current: "MCA - IGNOU (2025-2026)",
-        completed: "B.Sc - IGNOU (2017-2020)"
-    },
-    
-    openToWork: true
-};
+class FullStackDeveloper {
+  constructor() {
+    this.name = "Arun Jawlia";
+    this.location = "Delhi, India 🇮🇳";
+    this.role = "Full Stack Developer";
+    this.experience = "2+ Years";
+    this.passion = "Building Scalable Web Applications";
+  }
+
+  get currentWork() {
+    return {
+      company: "Publicis Sapient",
+      role: "Frontend Engineer",
+      client: "Fidelity International 🏦",
+      period: "April 2025 - Dec 2025",
+      focus: "Enterprise MFE Architecture"
+    };
+  }
+
+  get previousWork() {
+    return {
+      company: "Ijona Service LLP",
+      role: "Software Engineer",
+      period: "Feb 2024 - Aug 2025",
+      achievements: [
+        "Built scalable MERN applications",
+        "40% API performance boost with Redis",
+        "Real-time WebSocket systems"
+      ]
+    };
+  }
+
+  get expertise() {
+    return [
+      "⚛️ React & TypeScript Expert",
+      "🏗️ Micro-Frontend Architecture",
+      "⚡ Performance Optimization (40% boost)",
+      "🔐 Secure Authentication (JWT/OAuth2)",
+      "🧪 Testing Champion (90% coverage)",
+      "📱 Cross-platform Development"
+    ];
+  }
+
+  get achievements() {
+    return {
+      performanceBoost: "40% faster APIs",
+      testCoverage: "90% with Jest",
+      caching: "Redis optimization expert",
+      migration: "Legacy to Modern React",
+      realTime: "WebSocket implementations"
+    };
+  }
+
+  get education() {
+    return {
+      current: "MCA - IGNOU (2025-2026)",
+      completed: "B.Sc - IGNOU (2017-2020)"
+    };
+  }
+}
+
+const arun = new FullStackDeveloper();
+console.log("Let's build something amazing! 🚀");
 ```
 
 ---
 
-## 💼 Professional Experience
+## 🔥 What Sets Me Apart
 
-### 🏢 Publicis Sapient - Frontend Engineer
-**Client: Fidelity International | April 2025 - Dec 2025 | Gurgaon**
+<table>
+<tr>
+<td width="50%">
 
-- Developed **User Management Module** in Micro-Frontend (MFE) architecture
-- Migrated legacy **Backbone.js** codebase to **React + TypeScript**
-- Implemented **Role-Based Access Control (RBAC)** for admin management
-- Achieved **90% test coverage** using Jest, reducing production defects
-- Built modular, reusable React components with TypeScript
+### 💼 Professional Experience
 
-### 🏢 Ijona Service LLP - Software Engineer
-**Feb 2024 - Aug 2025 | Bangalore**
+✅ **Publicis Sapient** - Frontend Engineer
+- Client: Fidelity International
+- Enterprise MFE Platform Development
+- React + TypeScript Migration
+- 90% Test Coverage Achievement
 
-- Built scalable **MERN applications** focusing on performance and security
-- Developed responsive UIs using **React Hooks, Router, and Redux**
-- Designed **RESTful APIs** with JWT & OAuth2 authentication
-- Improved performance by **~30%** using Redis caching and optimization
-- Followed Git-based workflows with PR reviews and CI practices
+✅ **Ijona Service LLP** - Software Engineer
+- MERN Stack Development
+- Redis Performance Optimization
+- Real-time System Implementation
+
+</td>
+<td width="50%">
+
+### 🎯 Core Strengths
+
+- 🚀 **Performance**: 30-40% optimization
+- 🧪 **Quality**: 90% test coverage
+- 🏗️ **Architecture**: MFE & Scalability
+- 🔐 **Security**: JWT, OAuth2, RBAC
+- ⚡ **Speed**: Redis caching expert
+- 🤝 **Collaboration**: Agile & CI/CD
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧑‍💻 Languages & Tools
+## 🛠️ Technology Arsenal
 
-### Frontend
+<details open>
+<summary><b>🎨 Frontend Technologies</b></summary>
+<br>
+
 ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,bootstrap,materialui)
 
-### Backend
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Technologies</b></summary>
+<br>
+
 ![Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma)
 
-### Databases
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Caching</b></summary>
+<br>
+
 ![Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)
 
-### DevOps
-![Skills](https://skillicons.dev/icons?i=docker,kubernetes)
+</details>
 
-### Tools
-![Skills](https://skillicons.dev/icons?i=npm,git,github,bitbucket,gitlab,vercel,netlify,vscode,postman,windows)
+<details open>
+<summary><b>🔧 DevOps & Tools</b></summary>
+<br>
+
+![Skills](https://skillicons.dev/icons?i=npm,git,github,bitbucket,gitlab,vercel,netlify,vscode,postman,windows,figma)
+
+</details>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏢 User Management Module (Enterprise MFE Platform)
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Enterprise MFE Platform
 **Publicis Sapient | Fidelity International**
 
-**Tech:** React • TypeScript • Jest • Micro-Frontend Architecture
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
 
-- Developed enterprise React SPAs within a Micro-Frontend (MFE) architecture
-- Migrated legacy Backbone.js modules to React + TypeScript for better performance
-- Achieved **~90% unit test coverage** using Jest, reducing production defects
-- Implemented Role-Based Access Control (RBAC) for admin and sub-admin management
-- Collaborated with backend, QA, and DevOps teams in Agile sprints
-- Built modular, reusable React components for improved maintainability
+**🎯 Key Achievements:**
+- ✨ Micro-Frontend architecture
+- 🔄 Legacy Backbone.js → React migration
+- ✅ **90% test coverage** (Jest)
+- 🔐 RBAC implementation
+- 📦 Modular, reusable components
 
----
+**Impact:** Reduced production defects & improved maintainability
 
-### 🚗 WeMove – Ride, Bus & Hotel Booking Platform
+</td>
+<td width="50%">
+
+### 🚗 WeMove Platform
 **Ijona Service LLP | South Africa**
 
-**Tech:** Node.js • MongoDB • Redis • WebSocket • JWT
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 
-- Built high-performance backend for ride-hailing, hotel, and bus booking platform
-- Integrated **MTN MoMo** payment bank for South African market
-- Designed REST APIs for rides, fares, users, and drivers
-- Implemented secure authentication using JWT and Bcrypt password hashing
-- Improved API response time by **~40%** using Redis caching and query optimization
-- Enabled real-time ride tracking using WebSockets
-- Implemented dynamic pricing and RBAC for platform security and scalability
+**🎯 Key Achievements:**
+- 🚀 Ride-hailing & booking platform
+- 💳 MTN MoMo payment integration
+- ⚡ **40% faster APIs** (Redis caching)
+- 📍 Real-time tracking (WebSocket)
+- 💰 Dynamic pricing algorithm
+
+**Impact:** High-performance backend serving thousands
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛢️ Oil Nomination System
+**Dubai Government | SNOC**
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+
+**🎯 Key Achievements:**
+- 📋 Dynamic forms (React Hook Form)
+- ✅ Validation with Yup
+- 🎨 Responsive Material UI
+- ⚡ Lazy loading & memoization
+- 🔌 Centralized error handling
+
+**Impact:** Government-grade oil nomination system
+
+</td>
+<td width="50%">
+
+### 🏃 Sport & Health App
+**React Native Fitness Platform**
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white" />
+
+**🎯 Key Achievements:**
+- 📱 Cross-platform mobile app
+- 📍 Google Maps API integration
+- 📊 Real-time activity tracking
+- 🎯 Personalized training programs
+- 🏃 Performance analytics
+
+**Impact:** Personalized fitness for runners
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛢️ Oil Nomination System (Dubai Government)
-**Sharjah National Oil Corporation (SNOC)**
+## 📊 GitHub Analytics
 
-**Tech:** React • Material UI • Axios • React Hook Form • Yup
-
-- Built a React-based oil nomination system for SNOC
-- Developed dynamic and validated forms using React Hook Form and Yup
-- Designed responsive UI using Material UI
-- Improved performance using lazy loading and memoization
-- Integrated backend APIs using Axios with centralized error handling
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-Jawlia&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🏃 Sport & Health – Fitness Tracking App
-**React Native Cross-Platform Application**
-
-**Tech:** React Native • Google Maps API
-
-- Built cross-platform React Native fitness application
-- Developed a Runner module with real-time activity tracking
-- Integrated Google Maps API for live route tracking and route visualization
-- Delivered personalized training programs for runners and fitness enthusiasts
-- Implemented performance analytics
-
----
-
-## 📊 GitHub Stats
+## 🏆 Achievement Showcase
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arun-Jawlia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Jawlia&layout=compact&langs_count=8&theme=tokyonight"/>
+
+| 🎯 Metric | 📈 Achievement |
+|-----------|----------------|
+| **Performance Boost** | ⚡ 40% faster API responses |
+| **Code Quality** | ✅ 90% test coverage |
+| **Optimization** | 🚀 30% deployment improvement |
+| **Migration** | 🔄 Legacy → Modern React |
+| **Security** | 🔐 JWT/OAuth2 expert |
+| **Real-time** | 📡 WebSocket implementations |
+| **Architecture** | 🏗️ Micro-Frontend specialist |
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-Jawlia&theme=tokyonight" alt="streak stats"/>
-</div>
-
 ---
 
-## 🏆 Key Achievements
+## 🎓 Education & Learning
 
-| Achievement | Impact |
-|-------------|--------|
-| ⚡ **Performance Optimization** | 40% faster API responses using Redis caching |
-| ✅ **Code Quality** | 90% test coverage with Jest |
-| 🔄 **Legacy Migration** | Successfully migrated Backbone.js to React + TypeScript |
-| 🚀 **Deployment Optimization** | 30% performance improvement |
-| 🔐 **Security Implementation** | JWT & OAuth2 authentication |
-| 📡 **Real-time Systems** | WebSocket-based tracking systems |
-| 🏗️ **Architecture** | Micro-Frontend specialist |
+<table>
+<tr>
+<td width="50%">
 
----
+### 📚 Academic Qualifications
 
-## 📚 Education
+- 🎓 **Master of Computer Applications (MCA)**
+  - IGNOU | 2025 - 2026 (Pursuing)
+  
+- 🎓 **Bachelor of Science (B.Sc)**
+  - IGNOU | 2017 - 2020
 
-**Master of Computer Application (MCA)**  
-Indira Gandhi National Open University | Jan 2025 - Dec 2026
+</td>
+<td width="50%">
 
-**Bachelor of Science (B.Sc)**  
-Indira Gandhi National Open University | June 2017 - Dec 2020
+### 🌱 Currently Exploring
 
----
+- ☁️ Generative AI Engineering
+- 🐳 Scalable Backend Practices
+- 📐 System Design Patterns
+- 🔍 GraphQL & Modern APIs
+- 🧠 Advanced TypeScript Patterns
 
-## 🌱 Currently Learning
-
-- Python with its framework
-- Revised backend concepts
-- System Design Patterns
-- GraphQL & Modern APIs
-- Advanced TypeScript Patterns
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🤝 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://arun-jawlia.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-jawlia/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunkumar08.mk@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919718653508)
+<p align="center">
+  <a href="https://arun-jawlia.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/arun-jawlia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arunkumar08.mk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Arun-Jawlia" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://wa.me/+919718653508" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 ---
 
 ## 📄 Resume & Certificates
 
-**[View Resume & Certificates](https://drive.google.com/drive/folders/1vnkj6o086Sbby9FWSugWS0doajT62fUU)**
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1vnkj6o086Sbby9FWSugWS0doajT62fUU" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
 ---
 
-## 💼 Open to Opportunities
+## 🎯 Open For Opportunities
 
-I'm currently **open to work** and seeking opportunities in:
+<div align="center">
 
-- 🎯 Full Stack Development
-- ⚛️ Frontend Engineering
-- ⚙️ Backend Development
-- 💼 Freelance & Contract Projects
+### 💼 Currently seeking:
 
-**Focus Areas:** Micro-Frontend Architecture • Enterprise Applications • Performance Optimization • Scalable Systems
+**Full Stack Developer** | **Frontend Engineer** | **Backend Developer** | **Freelance Projects**
+
+### 🌟 Interested in:
+
+**Micro-Frontend** | **Enterprise Applications** | **Performance Optimization** | **Scalable Systems**
+
+</div>
 
 ---
 
@@ -236,12 +388,12 @@ I'm currently **open to work** and seeking opportunities in:
 
 ## 💡 Fun Facts
 
-- 🎯 Passionate about clean code and best practices
-- ⚡ Performance optimization enthusiast
-- 🌍 Worked on projects across India, Dubai, and South Africa
-- 📚 Pursuing MCA while working full-time
-- 🚀 Love exploring Micro-Frontend architectures
-- 🧩 Enjoy solving complex problems with elegant solutions
+- 🎯 Reduced production defects through comprehensive testing practices
+- ⚡ Performance optimization enthusiast - consistently achieving 30-40% improvements
+- 🌍 International experience working on projects across **India, Dubai, and South Africa**
+- 🧩 Passionate about **clean code architecture** and **best practices**
+- 📚 Pursuing **MCA** while working full-time as a developer
+- 🚀 Love exploring **Micro-Frontend architectures** and new technologies
 
 ---
 
