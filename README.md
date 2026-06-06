@@ -47,7 +47,7 @@ I specialize in the **MERN stack**, **Micro-Frontend architecture**, and deliver
 ---
 
 ## 🚀 About Me
-
+/*
 ```javascript
 class FullStackDeveloper {
   constructor() {
@@ -115,7 +115,7 @@ console.log("Let's build something amazing! 🚀");
 ```
 
 ---
-
+*/
 ## 🔥 What Sets Me Apart
 
 <table>
