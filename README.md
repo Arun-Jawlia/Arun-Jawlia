@@ -1,6 +1,6 @@
 <div align="center" width="80%">   
   <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arun Jawlia</h1>
-  <h3>🚀 Full Stack Developer | MERN | React | TypeScript</h3>
+  <h3>🚀 Full Stack Engineer | MERN | React | TypeScript </h3>
   
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=600&lines=2%2B+Years+of+Development+Experience;Building+Scalable+Web+Applications;MERN+Stack+%7C+React+%7C+TypeScript;Micro-Frontend+Architecture+Expert;Performance+Optimization+Specialist" alt="Typing SVG" />
