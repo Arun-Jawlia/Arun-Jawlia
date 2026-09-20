@@ -151,7 +151,7 @@ A chatbot built on LCEL chains with a Streamlit front end that remembers the con
 <td width="50%" valign="top">
 
 **🗃️ Chat with SQL Database**
-*LangChain SQL Toolkit · Agents · Python*
+*LangChain SQL Toolkit · Agents · Python   *
 
 A natural-language-to-SQL agent that turns plain-English questions into queries against a live relational database.
 
