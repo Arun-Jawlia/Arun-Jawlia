@@ -1,6 +1,6 @@
 <div align="center" width="80%">
   <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arun Jawlia</h1>
-  <h3>🚀 Full Stack Engineer | Transitioning into Generative AI Engineer</h3>
+  <h3>🚀 Full Stack Engineer | AI and ML | Generative AI Engineer</h3>
 
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=650&lines=2%2B+Years+of+Full-Stack+Development+Experience;Now+Building+RAG+Pipelines+%26+LLM+Agents;MERN+Stack+%7C+React+%7C+TypeScript+%7C+LangChain;Micro-Frontend+Architecture+Expert;Performance+Optimization+Specialist" alt="Typing SVG" />
