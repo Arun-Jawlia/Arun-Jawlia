@@ -285,12 +285,7 @@ ANN-based classification model (regularization, dropout, LR scheduling) plus LLM
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arun-Jawlia&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-Jawlia&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Jawlia&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
